@@ -24,7 +24,3 @@ At Dotbrains, our mission is to make the lives of developers easier by providing
 ## What We Do
 
 We specialize in impactful and meaningful developer operations. Our goal is to provide developers with the tools and resources they need to focus on what they do best: creating innovative solutions and bringing joy to developers.
-
-## Get Involved
-
-**Contribute**: Check out our [GitHub repositories](https://github.com/orgs/dotbrains/repositories) to contribute to our projects.
