@@ -1,4 +1,4 @@
-# Dotbrains
+# Dotbrains 🧠 
 
 A collective dedicated to the craft of software engineering whose mission is to make the world better through software.
 
