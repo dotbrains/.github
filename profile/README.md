@@ -21,6 +21,3 @@ At Dotbrains, our mission is to make the lives of developers easier by providing
 - **Ethical Software**: Ensuring that our tools and practices protect user data and privacy.
 - **Community**: Fostering a supportive and collaborative environment for developers.
 
-## What We Do
-
-We specialize in impactful and meaningful developer operations. Our goal is to provide developers with the tools and resources they need to focus on what they do best: creating innovative solutions and bringing joy to developers.
