@@ -1,0 +1,26 @@
+{
+    "name": "dotbrains",
+    "version": "1.0.12",
+    "description": "Get to know dotbrains via `npx dotbrains`.",
+    "scripts": {
+      "prepublish": "npm run build",
+      "build": "node index.js",
+      "lint": "standard",
+      "test": "echo \"Error: no test specified\" && exit 0"
+    },
+    "bin": {
+      "dotbrains": "index.js"
+    },
+    "dependencies": {
+      "cli-welcome": "^2.2.0",
+      "standard": "^16.0.3"
+    },
+    "keywords": [],
+    "license": "MIT",
+    "main": "index.js",
+    "repository": "dotbrains/.github",
+    "author": {
+      "name": "Nicholas Adamou",
+      "email": "nicholasadamouemail@gmail.com"
+    }  
+}

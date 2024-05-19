@@ -21,3 +21,12 @@ At Dotbrains, our mission is to make the lives of developers easier by providing
 - **Ethical Software**: Ensuring that our tools and practices protect user data and privacy.
 - **Community**: Fostering a supportive and collaborative environment for developers.
 
+## Find us on the command-line
+
+Assuming you have the latest npm installed, you can use via `npx`:
+
+```
+npx dotbrains
+```
+
+Not including how to use it globally because I'm not sure why you'd want this as a global command; that'd be creepy. 🤨
