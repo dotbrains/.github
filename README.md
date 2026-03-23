@@ -1,5 +1,7 @@
 # .github
 
+[![License: PolyForm Shield 1.0.0](https://img.shields.io/badge/License-PolyForm%20Shield%201.0.0-blue.svg)](https://polyformproject.org/licenses/shield/1.0.0/)
+
     A personal card for dotbrains (@dotbrains) 🙋🏼‍♂️
 
 Welcome to Dotbrains! We are a collective dedicated to the craft of software engineering, driven by a mission to make the world better through software. Our journey is fueled by a passion for innovation, creativity, and the transformative power of technology. We believe that software is more than just code; it's a tool that can enhance lives, solve complex problems, and create new opportunities.
