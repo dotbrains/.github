@@ -24,8 +24,7 @@ Not including how to use it globally because I'm not sure why you'd want this as
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
+This project is licensed under the [PolyForm Shield License 1.0.0](https://polyformproject.org/licenses/shield/1.0.0/) — see [LICENSE](LICENSE) for details.
 ## Contact
 
 For more information or if you have any questions, please reach out to:
