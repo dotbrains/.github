@@ -32,7 +32,7 @@ This project is licensed under the [PolyForm Shield License 1.0.0](https://polyf
 For more information or if you have any questions, please reach out to:
 
 **Nicholas Adamou**  
-Email: [nicholasadamouemail@gmail.com](mailto:nicholasadamouemail@gmail.com)
+Email: [nicholasadamouemail@gmail.com](mailto:nicholas.adamou@outlook.com)
 
 ---
 
