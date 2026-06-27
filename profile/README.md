@@ -41,7 +41,7 @@ Small, focused command-line tools.
 - [**configsync**](https://github.com/dotbrains/configsync) — sync macOS app settings across machines.
 - [**gh-identity**](https://github.com/dotbrains/gh-identity) · [**awsw**](https://github.com/dotbrains/awsw) — per-directory GitHub identities and fast AWS/EKS context switching.
 - [**glimpse**](https://github.com/dotbrains/glimpse) · [**yeet**](https://github.com/dotbrains/yeet) — a browser-based git diff viewer and a terminal macOS app uninstaller.
-- [**eden**](https://github.com/dotbrains/eden) · [**prr**](https://github.com/dotbrains/prr) — orchestrate AI coding agents in sandboxed worktrees, and run AI code reviews on your PRs.
+- [**fugue**](https://github.com/dotbrains/fugue) · [**prr**](https://github.com/dotbrains/prr) — a ghost mode for you AI coding agents, and run AI code reviews on your PRs.
 
 ## Find us on the command-line
 
