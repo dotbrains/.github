@@ -2,7 +2,7 @@
 
 > A collective dedicated to the craft of software engineering — making the world better, one line of code at a time.
 
-[![Repos](https://img.shields.io/badge/repos-90%2B-brightgreen)](https://github.com/orgs/dotbrains/repositories)
+[![Repos](https://img.shields.io/badge/repos-90%2B-brightgreen)](https://github.com/orgs/smeltery/repositories)
 [![npx smeltery](https://img.shields.io/badge/npx-smeltery-black?logo=npm)](https://www.npmjs.com/package/smeltery)
 
 ## About Us

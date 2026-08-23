@@ -1,7 +1,7 @@
 {
   "name": "smeltery",
   "version": "1.0.12",
-  "description": "Get to know dotbrains via `npx smeltery`.",
+  "description": "Get to know smeltery via `npx smeltery`.",
   "scripts": {
     "prepublish": "npm run build",
     "build": "node index.js",
