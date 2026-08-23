@@ -2,25 +2,25 @@
 
 [![License: PolyForm Shield 1.0.0](https://img.shields.io/badge/License-PolyForm%20Shield%201.0.0-blue.svg)](https://polyformproject.org/licenses/shield/1.0.0/)
 
-    A personal card for dotbrains (@dotbrains) 🙋🏼‍♂️
+    A personal card for smeltery (@smeltery) 🙋🏼‍♂️
 
-Welcome to Dotbrains! We are a collective dedicated to the craft of software engineering, driven by a mission to make the world better through software. Our journey is fueled by a passion for innovation, creativity, and the transformative power of technology. We believe that software is more than just code; it's a tool that can enhance lives, solve complex problems, and create new opportunities.
+Welcome to Smeltery! We are a collective dedicated to the craft of software engineering, driven by a mission to make the world better through software. Our journey is fueled by a passion for innovation, creativity, and the transformative power of technology. We believe that software is more than just code; it's a tool that can enhance lives, solve complex problems, and create new opportunities.
 
 ## About
 
-This project provides a simple CLI tool to get to know Dotbrains. When you run `npx dotbrains`, you'll be greeted with a friendly message introducing you to our mission and values.
+This project provides a simple CLI tool to get to know Smeltery. When you run `npx smeltery`, you'll be greeted with a friendly message introducing you to our mission and values.
 
 ## Usage
 
 To use this tool, you need to have Node.js installed on your machine. If you don't have it yet, you can download it from [Node.js official website](https://nodejs.org/).
 
-Once you have Node.js installed, you can use `npx` to run the Dotbrains CLI tool:
+Once you have Node.js installed, you can use `npx` to run the Smeltery CLI tool:
 
 ```sh
-npx dotbrains
+npx smeltery
 ```
 
-Running the command above will display a welcome message and provide you with information about Dotbrains.
+Running the command above will display a welcome message and provide you with information about Smeltery.
 
 Not including how to use it globally because I'm not sure why you'd want this as a global command; that'd be creepy. 🤨
 
