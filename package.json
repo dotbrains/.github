@@ -1,7 +1,7 @@
 {
-  "name": "dotbrains",
+  "name": "smeltery",
   "version": "1.0.12",
-  "description": "Get to know dotbrains via `npx dotbrains`.",
+  "description": "Get to know dotbrains via `npx smeltery`.",
   "scripts": {
     "prepublish": "npm run build",
     "build": "node index.js",
@@ -9,7 +9,7 @@
     "test": "echo \"Error: no test specified\" && exit 0"
   },
   "bin": {
-    "dotbrains": "index.js"
+    "smeltery": "index.js"
   },
   "dependencies": {
     "cli-welcome": "^2.2.0",
@@ -18,7 +18,7 @@
   "keywords": [],
   "license": "PolyForm-Shield-1.0.0",
   "main": "index.js",
-  "repository": "dotbrains/.github",
+  "repository": "smeltery/.github",
   "author": {
     "name": "Nicholas Adamou",
     "email": "nicholasadamouemail@gmail.com"
