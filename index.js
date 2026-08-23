@@ -14,7 +14,7 @@ welcome({
 });
 
 console.log(`
-👨🏼‍💻 Dotbrains
+👨🏼‍💻🌴 Smeltery
 
 We are a collective dedicated to the craft of software engineering, driven by a mission to make the world better through software. Our journey is fueled by a passion for innovation, creativity, and the transformative power of technology. We believe that software is more than just code; it's a tool that can enhance lives, solve complex problems, and create new opportunities.
 
@@ -22,5 +22,5 @@ We are committed to building software that is ethical and user-centric. Protecti
 
 Join us on this journey as we harness the power of software engineering to bring joy, efficiency, and positive change to the world. Together, we can make a difference, one line of code at a time.
 
-📖 GitHub:  https://github.com/dotbrains
+📖 GitHub:  https://github.com/smeltery
 `);
