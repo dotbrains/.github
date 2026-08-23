@@ -1,4 +1,4 @@
-# Smeltery 🧑🏼‍💻🌴
+# Smeltery Labs 🧑🏼‍💻🌴
 
 > A collective dedicated to the craft of software engineering — making the world better, one line of code at a time.
 
